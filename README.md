@@ -25,6 +25,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmen09h&theme=dark&hide_border=false" alt="GitHub Streak" width="500"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmen09h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" width="500"/>
 
-  ### 🔝 TOP CONTRIBUTED REPO
+  ### 🔝 TOP CONTRIBUTED REPO 🔝
   <img src="https://github-contributor-stats.vercel.app/api?username=carmen09h&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="500"/>
 </div>
