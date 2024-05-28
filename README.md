@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://example.com/path/to/your/image.png" alt="Profile Image" width="200"/>
-
-  # 💫 About Me:
-  ✨🔣₊˚⋆📚 Futura Ingeniería en Computación 💻 ⋆⁺₊🔢✨= Me apasiona contribuir en proyectos de ciencia 🧪 + tecnología 🌐 👩🏻‍🏫=👩🏻‍💻💟.
+  ✨🔣₊˚⋆📚 🌐 👩🏻‍🏫=👩🏻‍💻💟.
 
   ## 🌐 Socials:
   <a href="https://linkedin.com/in/Carmen Huitron"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
