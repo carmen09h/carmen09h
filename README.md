@@ -2,10 +2,11 @@
   <img src="https://example.com/path/to/your/image.png" alt="Profile Image" width="200"/>
   ✨🔣₊˚⋆📚 🌐 👩🏻‍🏫=👩🏻‍💻💟.
 
-  ## 🌐 Socials:
+   🌐 SOCIALS 🌐
+  
   <a href="https://linkedin.com/in/Carmen Huitron"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-  # 💻 Tech Stack:
+   💻 TECH STACK 💻
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -20,7 +21,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant"/>
 
-  # 📊 GitHub Stats:
+   📊 GitHub STATS 📊
   <img src="https://github-readme-stats.vercel.app/api?username=carmen09h&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmen09h&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmen09h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
